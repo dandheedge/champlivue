@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-champlivue-dev-182407-authRole",
+      "UnauthRoleArn": "arn:aws:iam::129349068113:role/amplify-champlivue-dev-182407-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::129349068113:role/amplify-champlivue-dev-182407-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-champlivue-dev-182407-deployment",
+      "UnauthRoleName": "amplify-champlivue-dev-182407-unauthRole",
+      "StackName": "amplify-champlivue-dev-182407",
+      "StackId": "arn:aws:cloudformation:ap-south-1:129349068113:stack/amplify-champlivue-dev-182407/0a387f30-24d9-11eb-87c1-020209f6e580",
+      "AmplifyAppId": "d1berkynlvtyfj"
+    },
+    "categories": {
+      "auth": {
+        "champlivuec05f78b1": {}
+      }
+    }
+  }
+}
