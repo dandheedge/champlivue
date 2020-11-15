@@ -1,7 +1,7 @@
 {
   "name": "champlivue",
   "short_name": "champlivue",
-  "theme_color": "#4DBA87",
+  "theme_color": "#4d426d",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
