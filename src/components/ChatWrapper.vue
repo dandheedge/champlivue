@@ -80,7 +80,7 @@ import { Chatty } from "@/models";
 
 Vue.filter("formatTime", function (value) {
   if (value) {
-    return moment(String(value)).format("Do MM YYYY, HH:mm:ss");
+    return moment(String(value)).format("Do MMMM YYYY, HH:mm:ss");
   }
 });
 Vue.filter("formatDateTime", function (value) {
